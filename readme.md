@@ -102,6 +102,6 @@ Your submission will be evaluated based on the following:
    - Technologies used (HTML5, CSS3)
    - Any challenges you faced and how you solved them
 
-**Deadline:** 02.08.2026
+**Deadline:** 02.15.2026
 
 Good luck, Architect! Build with precision and pride. 🚀
