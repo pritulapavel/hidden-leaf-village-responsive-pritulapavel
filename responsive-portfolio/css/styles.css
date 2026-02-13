@@ -228,6 +228,11 @@ footer {
     border-radius: var(--card-border-radius);
     background-color: var(--card-background-color);
     box-shadow: var(--card-box-shadow);
+    transition: box-shadow 0.2s linear;
+}
+.main-wrapper .content .card:hover {
+    box-shadow: 0px 12px 16px 8px #ddd;
+    cursor: pointer;
 }
 .main-wrapper .card .card-body {
     display:flex;
